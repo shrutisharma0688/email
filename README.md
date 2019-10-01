@@ -64,7 +64,7 @@ This application uses MailGun and SendGrid as its providers, please refer to the
 
 ## How to run it from the command line
 
-Once you have finished with the setup, you can execute the following command to run it. 
+Once you have finished with the setup and cloning of the repository, you can execute the following command to run it. 
 ```text
 mvn clean package -Dmaven.test.skip=true && java -jar target/email-service-rest-api-0.0.1-SNAPSHOT.jar
 ```
