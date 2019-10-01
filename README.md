@@ -23,6 +23,7 @@ This application uses MailGun and SendGrid as its providers, please refer to the
 * Save the pending email to the queue/database for future and and re-attempt 
 * Unit tests to be fixed
 * Scheduler/Job to go through the list of items in the 'pending' table/queue  
+* Solution deployment for outside access using URL
 
 
 
